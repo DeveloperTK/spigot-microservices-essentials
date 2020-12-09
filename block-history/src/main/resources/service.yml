@@ -1,0 +1,3 @@
+name: BlockHistory
+main: de.christianschliz.spigotservice.blockhistory.BlockHistory
+enable: false
