@@ -16,15 +16,7 @@
     </content>
     <orderEntry type="jdk" jdkName="1.8" jdkType="JavaSDK" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module-library">
-      <library name="Maven: de.christianschliz:spigot-microservices:0.2.0">
-        <CLASSES>
-          <root url="jar://$MODULE_DIR$/../SpigotMicroservices.jar!/" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
+    <orderEntry type="library" name="Maven: de.christianschliz:spigot-microservices:0.3.0" level="project" />
     <orderEntry type="library" name="Maven: com.datastax.oss:java-driver-core:4.9.0" level="project" />
     <orderEntry type="library" name="Maven: com.datastax.oss:native-protocol:1.4.11" level="project" />
     <orderEntry type="library" name="Maven: io.netty:netty-handler:4.1.51.Final" level="project" />
